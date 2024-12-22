@@ -11,6 +11,10 @@ body {
     color: #ffffff;
 }
 
+img {
+    transition: 3s;
+}
+
 .header {
     position: fixed;
     top: 0;
