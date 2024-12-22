@@ -5,11 +5,11 @@ html {
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
-    background-color: rgb(40, 36, 36);
 }
 
 body {
     color: #ffffff;
+    background-color: rgb(40, 36, 36);
 }
 
 img {
